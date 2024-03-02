@@ -1,7 +1,8 @@
 package codefights;
 
-/**
+/***
  * CenturyFromYear
+ *
  */
 public class CenturyFromYear {
     public static void main(String[] args) {

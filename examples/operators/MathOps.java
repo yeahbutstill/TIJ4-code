@@ -28,8 +28,11 @@ public class MathOps {
         print("k % j : " + i);
         j %= k;
         print("j %= k : " + j);
+
         // Floating-point number tests:
-        float u, v, w; // Applies to doubles, too
+        float u;
+        float v;
+        float w; // Applies to doubles, too
         v = rand.nextFloat();
         print("v : " + v);
         w = rand.nextFloat();
@@ -42,6 +45,7 @@ public class MathOps {
         print("v * w : " + u);
         u = v / w;
         print("v / w : " + u);
+
         // The following also works for char,
         // byte, short, int, long, and double:
         u += v;

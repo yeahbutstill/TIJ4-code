@@ -1,4 +1,4 @@
-//: operators/Equivalence.java
+// : operators/Equivalence.java
 
 public class Equivalence {
   public static void main(String[] args) {
@@ -8,6 +8,7 @@ public class Equivalence {
     System.out.println(n1 != n2);
   }
 } /* Output:
-false
-true
-*///:~
+  false
+  true
+  */
+// :~

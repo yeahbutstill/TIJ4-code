@@ -1,4 +1,4 @@
-//: operators/EqualsMethod.java
+// : operators/EqualsMethod.java
 
 public class EqualsMethod {
   public static void main(String[] args) {
@@ -7,5 +7,6 @@ public class EqualsMethod {
     System.out.println(n1.equals(n2));
   }
 } /* Output:
-true
-*///:~
+  true
+  */
+// :~
