@@ -1,4 +1,4 @@
-//: operators/EqualsMethod2.java
+// : operators/EqualsMethod2.java
 // Default equals() does not compare contents.
 
 class Value {
@@ -13,5 +13,6 @@ public class EqualsMethod2 {
     System.out.println(v1.equals(v2));
   }
 } /* Output:
-false
-*///:~
+  false
+  */
+// :~
